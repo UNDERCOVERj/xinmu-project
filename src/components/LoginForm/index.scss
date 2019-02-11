@@ -1,0 +1,36 @@
+$note: #d3d7f7;
+
+.container {
+    position: relative;
+    box-sizing: border-box;
+    width: 3.5rem;
+    padding: .6rem .4rem;
+    backface-visibility: hidden;
+    background: linear-gradient(230deg, rgba(53, 57, 74, 0) 0%, rgb(0, 0, 0) 100%);
+    box-shadow: -0.15rem 0.15rem 0.15rem rgba(0,0,0,.4);
+    .login-form {
+        font-size: 0.14rem;
+        .title {
+            color: $note;
+            margin-bottom: .3rem;
+        }
+        .endnote {
+            display: flex;
+            flex-direction: row-reverse;
+            span {
+                color: $note;
+                margin-top: .3rem;
+            }
+        }
+        input, .ant-input-group-addon {
+            color:#61BFFF;
+            border:none;
+            outline: none;
+            box-shadow: none;
+            background: transparent;
+        }
+        .ant-form-explain {
+            text-indent: 42px;
+        }
+    }
+}

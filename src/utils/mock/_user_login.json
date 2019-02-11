@@ -1,0 +1,29 @@
+{
+    "status_code": 200,
+    "message": "登陸成功！",
+    "data": {
+        "mu_sn": 7,
+        "mu_name": "ishan",
+        "menu": [
+            {
+                "mm_sn": 4,
+                "mm_name": "行程记录",
+                "mm_urls": "/admin/reco_instance_list.php\r\n"
+            },
+            {
+                "mm_sn": 5,
+                "mm_name": "行程轨迹",
+                "mm_urls": "/api/application/getapplist"
+            },{
+                "mm_sn": 4,
+                "mm_name": "群组管理",
+                "mm_urls": "/admin/reco_instance_list.php\r\n"
+            },
+            {
+                "mm_sn": 5,
+                "mm_name": "账户管理",
+                "mm_urls": "/api/application/getapplist"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+.account-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .account {
+        width: 80%;
+    }
+    .add-btn {
+        padding: .3rem;
+    }
+    .modal-row {
+        margin: .2rem 0;
+    }
+}

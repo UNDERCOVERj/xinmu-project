@@ -1,0 +1,18 @@
+.application-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .application {
+        width: 80%;
+    }
+    .add-btn {
+        padding: .3rem;
+    }
+    .modal-row {
+        margin: .2rem 0;
+    }
+}
+.search-btn {
+    font-size: .12rem;
+    margin-right: 1em;
+}

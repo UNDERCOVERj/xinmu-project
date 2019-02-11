@@ -1,0 +1,14 @@
+$titleColor: #1890ff;
+.history-back {
+    margin-bottom: .2rem;
+    font-size: .2rem;
+    p {
+        margin: 0;
+        cursor: pointer;
+        color: $titleColor;
+        display: inline-block;
+        .history-back-icon {
+            margin-right: .5em;
+        }
+    }
+}

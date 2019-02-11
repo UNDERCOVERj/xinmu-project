@@ -1,0 +1,25 @@
+.ota-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .ota {
+        width: 100%;
+        .add-btn {
+            padding: .3rem;
+        }
+        .ota-table-column {
+            font-size: 0.12rem;
+        }
+    }
+    .operation-btn-wrapper {
+        display: flex;
+        justify-content: space-around;
+        .operation-btn {
+            margin-right: 1em;
+        }
+    }
+}
+.upload-container {
+    display: flex;
+    justify-content: space-around;
+}

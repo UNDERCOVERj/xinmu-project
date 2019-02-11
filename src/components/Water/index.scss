@@ -1,0 +1,32 @@
+$titleColor: #1890ff;
+$titleSize: .2rem;
+.img-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.loadmore {
+    padding: .1rem 0;
+    text-align: center;
+}
+.nomore {
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.water-row {
+    margin-top: .2rem;
+}
+.water-title {
+    padding: .1rem;
+    font-size: $titleSize;
+    color: $titleColor;
+    background-color: #fff;
+    box-shadow: 0 0.03rem 0.03rem rgba(0,0,0,.05);
+    .water-info {
+        font-size: 0.14rem;
+        span {
+            color: #666;
+        }
+    }
+}

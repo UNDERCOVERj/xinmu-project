@@ -1,0 +1,26 @@
+{
+    "status_code": 200,
+    "message": "获取应用列表成功！",
+    "data": {
+        "list": [
+            {
+                "id": 13,
+                "esim_id": "86860460020123456381",
+                "uuid": "uid_5b823c8f9a1a0",
+                "add_time": "2038-01-19 11:14:07",
+                "detele_time": 0,
+                "info": ""
+            },
+            {
+                "id": 14,
+                "esim_id": "89886920041973541532",
+                "uuid": "uid_5b823c8f9a1a2",
+                "add_time": "2038-01-19 11:14:07",
+                "detele_time": 0,
+                "info": ""
+            }
+        ],
+        "page_count": 10,
+        "page": 1
+    }
+}

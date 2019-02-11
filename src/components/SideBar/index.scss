@@ -1,0 +1,14 @@
+.index-sidebar {
+    li:first-child {
+        margin-top: 0;
+    }
+    .avator {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+.contentLine {
+    width: 1rem;
+    cursor: pointer;
+}

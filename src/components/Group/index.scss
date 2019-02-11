@@ -1,0 +1,14 @@
+.group-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .group {
+        width: 80%;
+    }
+    .add-btn {
+        padding: .3rem;
+    }
+    .modal-row {
+        margin: .2rem 0;
+    }
+}

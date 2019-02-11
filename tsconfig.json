@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "importHelpers": true,
+        "outDir": "./dist/",
+        "sourceMap": false,
+        "noImplicitAny": true,
+        "module": "ESNext",
+        "target": "es5",
+        "jsx": "react",
+        "allowJs": true,
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "rootDirs": ["./"],
+        "baseUrl": "./",
+        "paths": {
+            "@src/*": ["./src/*"]
+        }
+    },
+    "exclude": [
+        "node_modules/",
+        "build/",
+        "examples/"
+    ]
+}

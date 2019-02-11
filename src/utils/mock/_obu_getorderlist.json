@@ -1,0 +1,90 @@
+{
+    "status_code": 200,
+    "message": "获取清单记录成功！",
+    "data": {
+        "list": [
+            {
+                "id": 1850,
+                "uuid": "uid_5b823c8f9a1d3",
+                "oid": 1850,
+                "obu_var": "obu_181105_01_1307_0",
+                "add_time": 1541898921,
+                "update_time": 0,
+                "delete_time": 0,
+                "esim_id": "86860460020123456381",
+                "desc": [
+                    {
+                        "stream_id": 22861,
+                        "oid": 1850,
+                        "esim_id": "86860460020123456381",
+                        "file": "https://s3.cn-northwest-1.amazonaws.com.cn/dev-source-video/video/86860460020123456381/aaa.MP4",
+                        "add_time": 1542247532,
+                        "rec_start_time": 0,
+                        "rec_end_time": 0,
+                        "rec_file": "",
+                        "merge_file": "",
+                        "rec_status": 0
+                    },
+                    {
+                        "stream_id": 22862,
+                        "oid": 1850,
+                        "esim_id": "86860460020123456381",
+                        "file": "https://s3.cn-northwest-1.amazonaws.com.cn/dev-source-video/video/86860460020123456381/aaa.MP4",
+                        "add_time": 1542247532,
+                        "rec_start_time": 0,
+                        "rec_end_time": 0,
+                        "rec_file": "",
+                        "merge_file": "",
+                        "rec_status": 0
+                    }
+                ]
+            },
+            {
+                "id": 1851,
+                "uuid": "uid_5b823c8f9a1d3",
+                "oid": 1851,
+                "obu_var": "obu_181105_01_1307_0",
+                "add_time": 1541898921,
+                "update_time": 0,
+                "delete_time": 0,
+                "esim_id": "86860460020123456381"
+            },
+            {
+                "id": 1852,
+                "uuid": "uid_5b823c8f9a1d3",
+                "oid": 1852,
+                "obu_var": "obu_181105_01_1307_0",
+                "add_time": 1541898921,
+                "update_time": 0,
+                "delete_time": 0,
+                "esim_id": "86860460020123456381",
+                "desc": [
+                    {
+                        "stream_id": 22863,
+                        "oid": 1852,
+                        "esim_id": "86860460020123456381",
+                        "file": "https://s3.cn-northwest-1.amazonaws.com.cn/dev-source-video/video/86860460020123456381/201808281448.MP4",
+                        "add_time": 1542247532,
+                        "rec_start_time": 0,
+                        "rec_end_time": 0,
+                        "rec_file": "",
+                        "merge_file": "",
+                        "rec_status": 0
+                    }
+                ]
+            },
+            {
+                "id": 1853,
+                "uuid": "uid_5b823c8f9a1d3",
+                "oid": 1853,
+                "obu_var": "obu_181105_01_1307_0",
+                "add_time": 1541898921,
+                "update_time": 0,
+                "delete_time": 0,
+                "esim_id": "86860460020123456381"
+            }
+        ],
+        "page_count": 1,
+        "page": 1
+    }
+}

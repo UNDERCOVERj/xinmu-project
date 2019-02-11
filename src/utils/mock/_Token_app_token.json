@@ -1,0 +1,7 @@
+{
+    "status_code": 200,
+    "message": "获取token成功！",
+    "data": {
+        "token": "4c69c924daec4c95049d6e97ec0a783a"
+    }
+}
